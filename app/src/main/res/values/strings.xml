@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyDemo</string>
+    <string name="facebook_app_id">ide kerül a facebook app id</string>
+    <string name="anonymus">ismeretlen</string>
+    <string name="tw_felirat_nev">Név: </string>
+    <string name="tw_felirat_email">Email: </string>
+    <string name="login_cancel">Bejelentkezés megszakítva!</string>
+    <string name="login_error">Bejelentkezési hiba :(</string>
+
+</resources>
